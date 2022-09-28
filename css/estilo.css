@@ -1,0 +1,45 @@
+
+
+body{
+    background-color: rgb(108, 108, 108);
+}
+
+.titulo{
+    padding-top: 15px;
+    margin: 10px auto;
+    width: 320px;
+    height: 150px;
+
+}
+
+.subtitulo{
+    font-size: 20px;
+    color: goldenrod;
+    margin-left: 60px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+a{font-family: 'Dancing Script', cursive;
+    font-size: 70px;
+    text-align: center;
+    line-height: 0.8;
+    color: rgb(219, 136, 4);
+}
+
+.clase1{
+    padding: 50px 80px;
+    
+    box-sizing: border-box;
+}
+
+.clase2{
+    border: 5px solid black;
+}
+
+
+
+
+
+
+
